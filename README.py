@@ -2,7 +2,7 @@
 from tkinter import *
 master = Tk()
 
-x="hello"
+y=""
 
 def prtx():
     y = t.get("1.0","end-1c")
