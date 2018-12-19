@@ -4,8 +4,6 @@ master = Tk()
 
 x="hello"
 
-y=StringVar()
-
 def prtx():
     y = t.get("1.0","end-1c")
     print(y)
